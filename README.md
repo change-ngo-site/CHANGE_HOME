@@ -6,7 +6,7 @@
 # 3. Renforcer les capacités locales à travers des actions et interventions scientifiques adaptées : Développer des systèmes d’alerte précoce, former les acteurs locaux, et promouvoir des stratégies préventives pour anticiper et gérer les crises sanitaires et environnementales.
 # 4. Garantir l’équité de genre et l’inclusion sociale : Intégrer ces principes dans toutes les actions de l’ONG, en mettant un accent particulier sur la participation active des femmes, des enfants et des groupes marginalisés.
 # 5. Promouvoir l’adaptation et la résilience climatique: Soutenir les communautés vulnérables dans l’évaluation des risques et la mise en œuvre de solutions durables face aux impacts du changement climatique.
-Valoriser et vulgariser les découvertes scientifiques
-# 5. Transformer les résultats de la recherche en outils pratiques et accessibles pour les communautés, les décideurs et les partenaires. En rendant les innovations scientifiques compréhensibles et applicables, CHANGE maximise leur impact sur le développement durable et la résilience des populations.
+# 6. Valoriser et vulgariser les découvertes scientifiques
+# 7. Transformer les résultats de la recherche en outils pratiques et accessibles pour les communautés, les décideurs et les partenaires. En rendant les innovations scientifiques compréhensibles et applicables, CHANGE maximise leur impact sur le développement durable et la résilience des populations.
 
 # En ligne avec les Objectifs de Développement Durable (ODD), notamment l’ODD 3 (Bonne santé et bien-être) et l’ODD 13 (Lutte contre le changement climatique), l’ONG CHANGE s’engage à catalyser des transformations positives et inclusives pour renforcer la résilience des populations et garantir un avenir meilleur.
