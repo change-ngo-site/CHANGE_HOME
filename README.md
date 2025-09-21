@@ -1,12 +1,22 @@
-# Le développement durable d'une nation repose sur sa capacité à intégrer les avancées scientifiques pour relever les défis contemporains. Au Bénin, ces défis sont nombreux et interconnectés : les maladies infectieuses émergentes et réémergentes, la progression des maladies zoonotiques, la montée en flèche de la résistance aux antimicrobiens, ainsi que l’exposition accrue aux polluants environnementaux, notamment les contaminants of emerging concern (CEC) tels que les microplastiques, les résidus pharmaceutiques, les pesticides et les produits chimiques persistants. Ces menaces, aggravées par les effets du changement climatique, posent un risque majeur pour la santé humaine et les écosystèmes. Face à ces enjeux, des solutions adaptées, inclusives et fondées sur des données probantes s’imposent, en particulier pour protéger les communautés les plus vulnérables.
-# Le Centre de Recherche pour l'Action en Santé Globale face aux Changements Climatiques, à l'Équité de Genre et aux Maladies Émergentes (Research Center for Global Health Action on Climate Change, Gender Equity, and Emerging Diseases, CHANGE) a été créé pour répondre à ces défis majeurs. CHANGE, organisation non gouvernementale apolitique et à but non lucratif, s'engage à transformer les connaissances scientifiques en actions concrètes et durables.
-# CHANGE concentre son action sur cinq axes stratégiques principaux :
-# 1. Combattre les maladies infectieuses émergentes et la résistance aux antimicrobiens : Identifier, surveiller et combattre ces menaces sanitaires majeures en s'appuyant sur des outils avancés de génomique pour tracer l’évolution des pathogènes et mieux comprendre les réseaux de transmission. L’ONG promeut également des solutions novatrices, telles que l’utilisation des bactériophages et d’autres alternatives crédibles aux antibiotiques, pour répondre aux défis posés par la résistance antimicrobienne et préserver l’efficacité des traitements.
-# 2. Réduire les impacts des polluants environnementaux : Surveiller et atténuer les effets des polluants environnementaux, y compris les contaminants of emerging concern (CEC), pour protéger la santé publique et préserver les écosystèmes.
-# 3. Renforcer les capacités locales à travers des actions et interventions scientifiques adaptées : Développer des systèmes d’alerte précoce, former les acteurs locaux, et promouvoir des stratégies préventives pour anticiper et gérer les crises sanitaires et environnementales.
-# 4. Garantir l’équité de genre et l’inclusion sociale : Intégrer ces principes dans toutes les actions de l’ONG, en mettant un accent particulier sur la participation active des femmes, des enfants et des groupes marginalisés.
-# 5. Promouvoir l’adaptation et la résilience climatique: Soutenir les communautés vulnérables dans l’évaluation des risques et la mise en œuvre de solutions durables face aux impacts du changement climatique.
-# 6. Valoriser et vulgariser les découvertes scientifiques
-# 7. Transformer les résultats de la recherche en outils pratiques et accessibles pour les communautés, les décideurs et les partenaires. En rendant les innovations scientifiques compréhensibles et applicables, CHANGE maximise leur impact sur le développement durable et la résilience des populations.
+The sustainable development of a nation depends on its ability to integrate scientific advances to address contemporary challenges.
+In Benin, these challenges are numerous and interconnected: emerging and re-emerging infectious diseases, the spread of zoonotic diseases, the rapid rise of antimicrobial resistance, and increased exposure to environmental pollutants — including contaminants of emerging concern (CECs) such as microplastics, pharmaceutical residues, pesticides, and persistent chemicals. Exacerbated by the effects of climate change, these threats pose major risks to human health and ecosystems. Meeting these challenges requires adapted, inclusive, and evidence-based solutions, especially to protect the most vulnerable communities.
 
-# En ligne avec les Objectifs de Développement Durable (ODD), notamment l’ODD 3 (Bonne santé et bien-être) et l’ODD 13 (Lutte contre le changement climatique), l’ONG CHANGE s’engage à catalyser des transformations positives et inclusives pour renforcer la résilience des populations et garantir un avenir meilleur.
+The Research Center for Global Health Action on Climate Change, Gender Equity, and Emerging Diseases (CHANGE) was created to address these pressing issues. CHANGE is a non-political, non-profit organization committed to transforming scientific knowledge into concrete and sustainable actions.
+
+CHANGE focuses its work on seven main areas:
+
+Combat emerging infectious diseases and antimicrobial resistance: Identify, monitor, and fight these major health threats using advanced genomic tools to trace pathogen evolution and better understand transmission networks. CHANGE also promotes innovative solutions, such as bacteriophage use and other credible alternatives to antibiotics, to address antimicrobial resistance and preserve treatment effectiveness.
+
+Reduce the impacts of environmental pollutants: Monitor and mitigate the effects of environmental pollutants, including contaminants of emerging concern (CECs), to protect public health and preserve ecosystems.
+
+Strengthen local capacity through tailored scientific actions: Develop early warning systems, train local actors, and promote preventive strategies to anticipate and manage health and environmental crises.
+
+Ensure gender equity and social inclusion: Integrate these principles into all of the organization’s activities, with particular emphasis on the active participation of women, children, and marginalized groups.
+
+Promote climate adaptation and resilience: Support vulnerable communities in risk assessment and the implementation of sustainable solutions to address climate change impacts.
+
+Value and disseminate scientific discoveries.
+
+Transform research results into practical, accessible tools for communities, decision-makers, and partners. By making scientific innovations understandable and actionable, CHANGE maximizes their impact on sustainable development and community resilience.
+
+In line with the United Nations Sustainable Development Goals (SDGs) — notably SDG 3 (Good Health and Well-being) and SDG 13 (Climate Action) — CHANGE is committed to catalyzing positive and inclusive transformations to strengthen population resilience and ensure a better future.
